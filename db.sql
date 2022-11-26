@@ -1,2 +1,4 @@
 database connection 
-lways on point.
+always on point.
+never a dull moment.
+clap if you agree.
